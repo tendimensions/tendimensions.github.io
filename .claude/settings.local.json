@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Skill(anthropic-skills:brainstorm)",
+      "Skill(anthropic-skills:brainstorm:*)",
+      "Bash(mkdir -p \"C:\\\\Users\\\\Softupdate\\\\Source\\\\Repos\\\\tendimensions.github.io\\\\.claude\")",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
